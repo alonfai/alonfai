@@ -8,8 +8,6 @@
 
 - 📫 How to reach me **alonfai@gmail.com**
 
-- ⚡ Fun fact **I love comedy shows from the 80+90's**
-
 <!--### Blogs posts-->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
