@@ -1,4 +1,3 @@
-<h1 align="center">Hi there 👋 Nice to see you 👨‍💻</h1>
 <h3 align="center">I am passionate about coding and engineering on the web. <br />Focus on Node.js, React, GoLang, AWS, Serverless, Docker, Kubernetes</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alonfai" alt="alonfai" /> </p>
