@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alonfai" alt="alonfai" /> </p>
 
-- 🌱 I’m currently learning **Infrastructure as Code (IaC) tools And Island Archtiecture server-rendered web pages**
+- 🌱 I’m currently learning **Infrastructure as Code (IaC) tools, AI, And Island Archtiecture server-rendered web pages**
 
 - 💬 Ask me about **JavaScript/TypeScript with React, Node.js, Golang, GraphQL**
 
