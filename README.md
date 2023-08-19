@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Infrastructure as Code (IaC) tools, AI, And Island Archtiecture server-rendered web pages**
 
-- 💬 Ask me about **JavaScript/TypeScript with React, Node.js, Golang, GraphQL**
+- 💬 Ask me about **JavaScript/TypeScript with React, Node.js, Golang, GraphQL on AWS**
 
 - 📫 How to reach me **alonfai@gmail.com**
 
