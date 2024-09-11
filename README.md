@@ -1,12 +1,14 @@
-<h3 align="center">I am passionate about coding and engineering on the web. <br />Focus on Node.js, React, GoLang, AWS, Serverless, Docker, Kubernetes</h3>
+<h3 align="center">I am passionate about coding and engineering on the web. <br />Focus on Node.js, React, IaC, GoLang, AWS, Serverless, Docker, Kubernetes</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alonfai" alt="alonfai" /> </p>
 
-- 🌱 I’m currently learning **Infrastructure as Code (IaC) tools, AI, And Island Archtiecture server-rendered web pages**
+- 🌱 I’m currently learning **AI And Island Archtiecture server-rendered web pages**
 
 - 💬 Ask me about **JavaScript/TypeScript with React, Node.js, Golang, GraphQL on AWS**
 
 - 📫 How to reach me **alonfai@gmail.com**
+
+- Senior Software Engineer & Solutions Consultant | React, TypeScript , Node.js , Golang, REST / GraphQL API , AWS / Azure
 
 <!--### Blogs posts-->
 <!-- BLOG-POST-LIST:START -->
